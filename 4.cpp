@@ -1,6 +1,6 @@
-#include <iostream>
+ï»¿#include <iostream>
 int main(int argc,char* argv[])
 {
-	cout<<"²âÊÔ"<<endl;
+	cout<<"æµ‹è¯•"<<endl;
 	return 0;
 }
